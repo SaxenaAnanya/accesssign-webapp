@@ -1,0 +1,22 @@
+.plan-container {
+    height: 570px;
+    width: 950px;
+    background-color: #1F2544;
+    z-index: 100;
+    padding: 10px 50px;
+}
+
+.plans-top-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.plans-top-container h1 {
+    font-weight: 400;
+}
+
+.all-plan-container {
+    display: flex;
+    gap: 50px;
+}

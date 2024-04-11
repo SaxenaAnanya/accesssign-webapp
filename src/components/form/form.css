@@ -1,0 +1,61 @@
+.form-container {
+    height: 250px;
+    width: 400px;
+    background-color: white;
+    opacity: 0.11;
+    border-radius: 15px;
+    display: inline;
+    margin-top: 300px;
+}
+
+.form {
+    height: 250px;
+    width: 400px;
+    background: transparent;
+    border-radius: 15px;
+    border: 1px solid white;
+    padding: 20px;
+}
+
+.form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form label a {
+    text-decoration: none;
+    color: #7E82FF;
+    padding-left: 170px;
+}
+
+.form input {
+    width: 370px;
+    height: 5px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.form button {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 45px;
+    outline: none;
+    border: none;
+    font-size: 24px;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #319939;
+    color: white;
+}
+
+.signup-redirect a {
+    text-decoration: none;
+    color: #7E82FF;
+}

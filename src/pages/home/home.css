@@ -1,0 +1,75 @@
+.site-name {
+    font-weight: 400;
+}
+
+.home-page-logo {
+    width: 30%;
+}
+
+.home-top-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right: -10px;
+}
+
+.home-premium-button {
+    padding: 25px 70px;
+    font-size: 24px;
+    background-color: #6D5999;
+    color: #FFC700;
+    font-size: 27px;
+    font-weight: 500;
+    border-radius: 50px 0px 0px 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    outline: none;
+    border: none;
+}
+
+.home-webcam-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.home-webcam {
+    margin-top: 70px;
+}
+
+.home-option-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.plan-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.plan-overlay {
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-color: black;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.home-options {
+    width: 200px;
+}

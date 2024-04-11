@@ -1,0 +1,22 @@
+.sin-page {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.sin-heading {
+    font-weight: 400;
+}
+
+.sin-page-top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sin-page-logo {
+    width: 30%;
+}

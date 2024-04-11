@@ -1,0 +1,56 @@
+.payment-container {
+    padding: 10px 50px;
+    background-color: #090B14;
+    width: 40vw;
+    height: 120vh;
+    margin: 0;
+}
+
+.input-text-heading {
+    padding: 15px 20px;
+    width: 150px;
+    background-color: #1F2544;
+}
+
+.payment-form-input {
+    width: 300px;
+    padding: 18.5px 20px;
+    background-color: #1F2544;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+
+.email-input-div {
+    display: flex;
+    align-items: center;
+}
+
+.payment-form-agreement {
+    width: 200px;
+}
+
+.payment-checkbox-input {
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+
+.payment-checkbox-input input {
+    margin-top: 20px;
+}
+
+button {
+    width: 535px;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border-radius: 10px;
+    color: white;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
